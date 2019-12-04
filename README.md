@@ -17,6 +17,6 @@
 
   ```
   
-  + 사용 라이브러리
++ 사용 라이브러리
     + [Retrofit](https://square.github.io/retrofit/)
     + [CardView](https://developer.android.com/guide/topics/ui/layout/cardview)
