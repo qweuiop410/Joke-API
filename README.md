@@ -4,7 +4,7 @@
 + 참고
   + [ICDNb.com](http://www.icndb.com/api/)
   
-  + 결과
++ 결과
   ``` json
   { 
   "type": "success", 
@@ -19,4 +19,4 @@
   
   + 사용 라이브러리
     + [Retrofit](https://square.github.io/retrofit/)
-  
+    + [CardView](https://developer.android.com/guide/topics/ui/layout/cardview)
